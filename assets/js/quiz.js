@@ -1,7 +1,7 @@
 var quizData = new Map([
     [
         "Who created JavaScript?",
-        ["Joe", "Henry Weigand", "Lindsay Fitzgerald", "William Lucht"]
+        ["Joe", "Henry", "Lindsay", "William"]
     ],
     [
         "What is the result of string(\"Quotes\")===\"Quotes\"?",
